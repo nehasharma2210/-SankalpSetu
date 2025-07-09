@@ -1,0 +1,43 @@
+.env
+# Virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+*.env
+
+# Logs
+*.log
+
+# Compiled files
+*.so
+*.dll
+
+# Coverage reports
+htmlcov/
+.coverage
+.cache/
+.pytest_cache/
+
+# Database or local storage
+*.sqlite3
+*.db
+
+node_modules/
